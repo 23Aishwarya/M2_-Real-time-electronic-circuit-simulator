@@ -1,9 +1,0 @@
-Real time circuit simulation 
-Real Time Circuit Simulation is a process which uses mathematical models to replicate the behavior of an actual electronic device or circuit.
-Simulation allows the modeling of circuit operation and is an invaluable analysis process. 
-Simulating a circuit's behavior before actually building it can greatly improve design efficiency by making faulty designs known as such,
-and providing insight into the behavior of electronics circuit designs. 
- In particular, for integrated circuits, the tooling (photomasks) is expensive, breadboards are impractical,
- and probing the behavior of internal signals is extremely difficult. 
- Circuit simulation is a process in which a model of an electronic circuit is created and analyzed using various software algorithms, 
- which predict and verify the behavior and performance of the circuit.
