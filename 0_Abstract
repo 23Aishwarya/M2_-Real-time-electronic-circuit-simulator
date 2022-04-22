@@ -1,0 +1,7 @@
+Temperature  control  refers  to  the  processes  that  are  aimed  at  maintaining  the temperature in a given area  at certain maximum/minimum level or within  a certain range.
+This  process  is commonly used  in  most  areas  of the  world.  Recently,  globalization  and industrialization has further  necessitated the need for  Temperature
+Automatic temperature control system is an important application used in almost all modern gadgets and smart homes. 
+The system for controlling temperature automatically is achieved by using Arduino Uno-based microcontroller system.
+Arduino Uno due to its increased popularity finds its varied range of applications. 
+Temperature sensor LM35 and Arduino Uno are the hardware used interfaced with computer,
+ and the temperature is controlled in the room. 
